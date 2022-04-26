@@ -1,0 +1,8 @@
+echo "===First Loop==="
+for number in 10 5 World 1 2
+do
+echo "Hello $number"
+echo "World"
+echo "Testing"
+echo "Line 4"
+done
