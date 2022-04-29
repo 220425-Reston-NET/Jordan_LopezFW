@@ -1,0 +1,5 @@
+C:\Users\jlope\Documents\Revature\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\jlope\Documents\Revature\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlope\Documents\Revature\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\jlope\Documents\Revature\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\jlope\Documents\Revature\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
